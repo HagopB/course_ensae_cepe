@@ -29,13 +29,7 @@ Now all the dependencies must be installed without problems (Keras 2, tensorflow
     ├── README.md                    # Readme
 ```
 ### Acknowledgement
-The code is based on two keras implementations. Sincere thanks to:
-* PiscesDream [https://github.com/PiscesDream/CycleGAN-keras](https://github.com/PiscesDream/CycleGAN-keras)
-* shadySource [https://github.com/shadySource/cyclegan_keras](https://github.com/shadySource/cyclegan_keras)
-
-### Demonstration: De-raining images 
-The example below present 15 rainy images where cycleGAN has been used to de-rain.
-
-![](https://github.com/HagopB/cyclegan/blob/master/pics/demo_rainremoval.png)
-
+The course is based on the courses of Jeremy Howard (fast.ai) and Andrew Ng (Coursera)
+* "Deep Learning for coders" given by Jeremy Howard [http://course.fast.ai/](http://course.fast.ai/)
+* "Deep Learning" given by Andrew Ng [https://fr.coursera.org/specializations/deep-learning](https://fr.coursera.org/specializations/deep-learning)
 
