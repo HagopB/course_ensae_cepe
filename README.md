@@ -1,6 +1,6 @@
 # course ENSAE-ENSAI CEPE - "Formation continue" - Deep Learning
 ### What is this repository for? 
-Notebooks and support necessary for the "Deep Learning course given to the ENSAE-ENSAI. N.B.!!! During the course, we'll apply together the notions (CNN, MLP, RNN) on two cases: Mnist handwritten digit recognizer and IMDB critics. The solutions ([MNIST] & [IMDB])are presented in the "./notebooks" folder. At the end of the course, you'll be asked to design and train your own model to solve an image recognition competition on kaggle [The Nature Conservancy Fisheries Monotirong](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring). A potential solution to this case is presented in this repo: [https://github.com/HagopB/fisheries_kaggle](https://github.com/HagopB/fisheries_kaggle).
+Notebooks and support necessary for the "Deep Learning" course given to the ENSAE-ENSAI Cepe. During the course, we'll apply together the studied notions (MLP, CNN, RNN) on two practical cases: Mnist handwritten digit recognizer and IMDB critics. The solutions ([MNIST] & [IMDB])are presented in the "./notebooks" folder. At the end of the course, you'll be asked to design and train your own model to solve an image recognition competition on kaggle [The Nature Conservancy Fisheries Monotirong](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring). A potential solution to this case is presented in this repo: [https://github.com/HagopB/fisheries_kaggle](https://github.com/HagopB/fisheries_kaggle).
 
 ### How do I get set up ?  
 Install Anaconda 3
