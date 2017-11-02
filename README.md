@@ -23,7 +23,7 @@ Now all the dependencies must be installed without problems (Keras 2, tensorflow
          └── IMDB_CRITICS.ipynb      # notebook for IMDB critics sentiment analysis
          └── CATS_VS_DOGS.ipynb      # notebook for Cats vs. Dog using Transfer Learning         
          └── utils.py                # utils necessary for the two notebooks
-    ├── ENSAE                       # Course presentation slides in pdf
+    ├── ENSAE-ENSAI cepe - course.pdf# Course presentation slides in pdf
     ├── images 
     ├── deepenv.yml                  # Environment (keras 2, tensorflow 1.1, etc ...)
     ├── README.md                    # Readme
