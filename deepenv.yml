@@ -1,0 +1,128 @@
+name: deepenv
+channels:
+- conda-forge
+- anaconda
+- defaults
+dependencies:
+- beautifulsoup4=4.6.0=py35_0
+- cudatoolkit=7.5=0
+- cudnn=5.1=0
+- fontconfig=2.12.1=3
+- freetype=2.5.5=2
+- icu=54.1=0
+- ipykernel=4.6.1=py35_0
+- jbig=2.1=0
+- jedi=0.10.2=py35_2
+- jupyter_client=5.0.1=py35_0
+- jupyter_core=4.3.0=py35_0
+- libgcc=5.2.0=0
+- libgfortran=3.0.0=1
+- libsodium=1.0.10=0
+- libtiff=4.0.6=3
+- libxml2=2.9.4=0
+- matplotlib=2.0.2=np112py35_0
+- mkl=2017.0.1=0
+- numpy=1.12.1=py35_0
+- openssl=1.0.2l=0
+- path.py=10.3.1=py35_0
+- pickleshare=0.7.4=py35_0
+- pillow=4.1.1=py35_0
+- pip=9.0.1=py35_1
+- pyzmq=16.0.2=py35_0
+- qt=5.6.2=4
+- readline=6.2=2
+- scipy=0.19.0=np112py35_0
+- seaborn=0.7.1=py35_0
+- simplegeneric=0.8.1=py35_1
+- tensorflow-gpu=1.1.0=np112py35_0
+- tk=8.5.18=0
+- xz=5.2.2=1
+- zeromq=4.1.5=0
+- bzip2=1.0.6=1
+- certifi=2017.4.17=py35_0
+- cycler=0.10.0=py35_0
+- dbus=1.10.10=3
+- decorator=4.0.11=py35_0
+- expat=2.1.0=2
+- gettext=0.19.7=1
+- glib=2.51.4=0
+- gst-plugins-base=1.8.0=0
+- gstreamer=1.8.0=2
+- h5py=2.7.0=np112py35_1
+- hdf5=1.8.18=0
+- ipython=6.1.0=py35_0
+- ipython_genutils=0.2.0=py35_0
+- jpeg=9b=0
+- keras=2.0.2=py35_1
+- libffi=3.2.1=3
+- libgpuarray=0.6.5=np112py35_0
+- libiconv=1.14=4
+- libpng=1.6.28=0
+- libxcb=1.12=1
+- mako=1.0.6=py35_0
+- markupsafe=1.0=py35_0
+- mock=2.0.0=py35_0
+- ncurses=5.9=10
+- numexpr=2.6.2=np112py35_0
+- olefile=0.44=py35_0
+- pandas=0.20.2=np112py35_0
+- pbr=3.0.1=py35_0
+- pcre=8.39=0
+- pexpect=4.2.1=py35_0
+- prompt_toolkit=1.0.14=py35_0
+- protobuf=3.3.0=py35_1
+- ptyprocess=0.5.1=py35_0
+- pygments=2.2.0=py35_0
+- pyparsing=2.2.0=py35_0
+- pyqt=5.6.0=py35_3
+- pytables=3.4.2=np112py35_1
+- python=3.5.3=1
+- python-dateutil=2.6.0=py35_0
+- pytz=2017.2=py35_0
+- pyyaml=3.12=py35_1
+- setuptools=27.2.0=py35_0
+- sip=4.18=py35_1
+- six=1.10.0=py35_1
+- sqlite=3.13.0=0
+- tensorflow=1.1.0=py35_0
+- theano=0.9.0=py35_0
+- tornado=4.5.1=py35_0
+- traitlets=4.3.2=py35_0
+- wcwidth=0.1.7=py35_0
+- werkzeug=0.11.10=py35_0
+- wheel=0.29.0=py35_0
+- xorg-libxau=1.0.8=3
+- xorg-libxdmcp=1.1.2=3
+- yaml=0.1.6=0
+- zlib=1.2.8=3
+- jinja2=2.9.6=py35_0
+- libxgboost=0.60=hdfa14d8_0
+- lzo=2.06=0
+- py-xgboost=0.60=py35np112h32b46d2_0
+- requests=2.14.2=py35_0
+- scikit-learn=0.18.2=np112py35_0
+- pip:
+  - awscli==1.11.94
+  - backports.weakref==1.0rc1
+  - bleach==1.5.0
+  - botocore==1.5.57
+  - colorama==0.3.7
+  - docutils==0.13.1
+  - editdistance==0.3.1
+  - html5lib==0.9999999
+  - ipython-genutils==0.2.0
+  - jmespath==0.9.3
+  - jupyter-client==5.0.1
+  - jupyter-core==4.3.0
+  - markdown==2.2.0
+  - mlxtend==0.7.0
+  - prompt-toolkit==1.0.14
+  - pyasn1==0.2.3
+  - pygpu==0.6.5
+  - rsa==3.4.2
+  - s3transfer==0.1.10
+  - tables==3.4.2
+  - wordcloud==1.3.1
+  - xgboost==0.6a2
+prefix: /home/ubuntu/anaconda3/envs/deepenv
+
