@@ -24,7 +24,7 @@ Now all the dependencies must be installed without problems (Keras 2, tensorflow
          └── CATS_VS_DOGS.ipynb      # notebook for Cats vs. Dog using Transfer Learning         
          └── utils.py                # utils necessary for the two notebooks
     ├── ENSAE                       # Course presentation slides in pdf
-    ├── images                       # all support images
+    ├── images 
     ├── deepenv.yml                  # Environment (keras 2, tensorflow 1.1, etc ...)
     ├── README.md                    # Readme
 ```
