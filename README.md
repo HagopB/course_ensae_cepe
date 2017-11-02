@@ -20,10 +20,8 @@ Now all the dependencies must be installed without problems (Keras 2, tensorflow
 └── course_ensae_cepe
     ├── notebooks                    # data folder contaning notebooks and utils
          ├── MNIST_CNN.ipynb         # notebook for MNIST
-         └── IMDB_CRITICS.ipynb      # notebook for IMDB critics sentiment analysis
-         └── CATS_VS_DOGS.ipynb      # notebook for Cats vs. Dog using Transfer Learning         
+         └── IMDB_CRITICS.ipynb      # notebook for IMDB critics sentiment analysis        
          └── utils.py                # utils necessary for the two notebooks
-    ├── ENSAE-ENSAI cepe - course.pdf# Course presentation slides in pdf
     ├── images 
     ├── deepenv.yml                  # Environment (keras 2, tensorflow 1.1, etc ...)
     ├── README.md                    # Readme
