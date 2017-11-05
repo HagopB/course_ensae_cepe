@@ -28,10 +28,10 @@ Now all the dependencies must be installed without problems (Keras 2, tensorflow
 ```
 ### Acknowledgement
 The course is based on the courses of Jeremy Howard (fast.ai) and Andrew Ng (Coursera)
-* "Deep Learning for coders" given by Jeremy Howard [http://course.fast.ai/](http://course.fast.ai/)
-* "Deep Learning" given by Andrew Ng [https://fr.coursera.org/specializations/deep-learning](https://fr.coursera.org/specializations/deep-learning)
+* "[Deep Learning for coders](http://course.fast.ai/)" given by Jeremy Howard
+* "[Deep Learning](https://fr.coursera.org/specializations/deep-learning)" given by Andrew Ng 
 
 and the following books:
 * "[Deep Learning](http://www.deeplearningbook.org/)" by Y. Bengio, I. Goodfellow and A. Courville
-* "[The elements of statistica learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)", by H. Friedman, R. Tibshirani and T. Hastie
+* "[The elements of statistical learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)", by H. Friedman, R. Tibshirani and T. Hastie
 * "[Deep Learning with python](https://www.manning.com/books/deep-learning-with-python)" by  F. Chollet
