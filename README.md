@@ -17,7 +17,7 @@ Now all the dependencies must be installed without problems (Keras 2, tensorflow
 
 ### Contents
 ```
-└── 
+└── course_ensae_cepe
     ├── data                                # data for the practice cases
          ├── dogscats.zip                   # data for Cats vs Dogs
          └── data_fisheries.zip             # data for fisheries competition
