@@ -17,13 +17,17 @@ Now all the dependencies must be installed without problems (Keras 2, tensorflow
 
 ### Contents
 ```
-└── course_ensae_cepe
-    ├── images 
+└── 
+    ├── data                                # data for the practice cases
+         ├── dogscats.zip                   # data for Cats vs Dogs
+         └── data_fisheries.zip             # data for fisheries competition
+    ├── images                              # utils images
     ├── notebooks                           # data folder contaning notebooks and utils
          ├── MNIST_CNN.ipynb                # notebook for MNIST
-         └── IMDB_CRITICS.ipynb             # notebook for IMDB critics sentiment analysis        
+         ├── IMDB_CRITICS.ipynb             # notebook for IMDB critics sentiment analysis
+         ├── CATS_vs_DOGS.ipynb             # cats vs dogs image classification - using Transfer Learning
          └── utils.py                       # utils necessary for the two notebooks
-    ├── ENSAE-ENSAE Cepe - Deep Learning.pdf# Class presentation slides 
+    ├── ENSAE-ENSAE Cepe - Deep Learning.pdf# class presentation slides 
     ├── README.md                           # Readme
     └── deepenv.yml                         # Environment (keras 2, tensorflow 1.1, etc ...)
 ```
