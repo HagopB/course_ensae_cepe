@@ -18,14 +18,14 @@ Now all the dependencies must be installed without problems (Keras 2, tensorflow
 ### Contents
 ```
 └── course_ensae_cepe
+    ├── images 
     ├── notebooks                           # data folder contaning notebooks and utils
          ├── MNIST_CNN.ipynb                # notebook for MNIST
          └── IMDB_CRITICS.ipynb             # notebook for IMDB critics sentiment analysis        
          └── utils.py                       # utils necessary for the two notebooks
-    ├── images 
     ├── ENSAE-ENSAE Cepe - Deep Learning.pdf# Class presentation slides 
-    ├── deepenv.yml                         # Environment (keras 2, tensorflow 1.1, etc ...)
     ├── README.md                           # Readme
+    └── deepenv.yml                         # Environment (keras 2, tensorflow 1.1, etc ...)
 ```
 ### Acknowledgement
 The course is based on the courses of Jeremy Howard (fast.ai) and Andrew Ng (Coursera)
